@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Modified by seungpar" << std::endl;
     std::cout << "3" << std::endl;
+    std::cout << "4차 수정" << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
